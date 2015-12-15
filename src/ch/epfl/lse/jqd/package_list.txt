@@ -1,0 +1,8 @@
+ch.epfl.lse.jqd.basics
+ch.epfl.lse.jqd.io
+ch.epfl.lse.jqd.opcode
+ch.epfl.lse.jqd.utils
+ch.epfl.lse.jqd.awt
+ch.epfl.lse.jqd.image
+ch.epfl.lse.jqd.managers
+ch.epfl.lse.jqd.qt
