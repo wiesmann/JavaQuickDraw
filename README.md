@@ -1,6 +1,8 @@
 # JavaQuickDraw
 
-An [old] library to decode QuickDraw images (aka Macintosh Pict files) in Java.
+A library to decode QuickDraw images (aka Macintosh Pict files) in Java.
+
+This library is very old, if you are looking for tools to decode QuickDraw data in Java, check-out [TwelveMonkeys ImageIO](https://github.com/haraldk/TwelveMonkeys), which is still maintained.
 
 The original code was written for Java 1.0, I refactored once the code during my PhD to use Java 1.1 facilities, and I am currently in the process of cleaning up the code. My goal would be to write a newer rendering back-end based on Graphics2 facilities. The current code uses hacks to go around the limitations of the original graphics class.
 
